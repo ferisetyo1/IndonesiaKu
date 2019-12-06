@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IndonesiaKu</string>
+    <string name="title_home">Home</string>
+    <string name="title_account">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_list_senjata">List Senjata</string>
+    <string name="queryhintsearch">Search...</string>
+    <string name="devname">Feri Setyo Efendi</string>
+    <string name="devmail">ferisetyo1@gmail.com</string>
+</resources>
